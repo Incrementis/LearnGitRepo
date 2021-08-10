@@ -6,3 +6,4 @@ This is just a test repository for myself to learn git and github :). If you hav
 ### Header 3
 #### Header 4
 ##### Header 5
+<p align="center">Centered text by using tags and attributes</p>
