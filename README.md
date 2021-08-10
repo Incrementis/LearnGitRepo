@@ -32,3 +32,8 @@ Task lists
 - [x] One
 - [ ] Two
 - [x] Three
+
+
+**Bold**
+_italics_
+~~Strike through~~
