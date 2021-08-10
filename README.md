@@ -16,6 +16,8 @@ This is just a test repository for myself to learn git and github :). If you hav
 
 # The following picture was added by drag and drop to the md file...
 
+## WARNING: I do not recommend uploading images by drag and drop! It seems it ain´t easy to delete them. [Check the following link](https://stackoverflow.com/questions/52282847/can-images-on-user-images-githubusercontent-com-be-deleted)
+
 ![ByDargAndDrop](https://user-images.githubusercontent.com/17119474/128820935-fa93d0d8-aa8e-49e6-8e5b-0eb293c2b238.png)
 
 
