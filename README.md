@@ -9,5 +9,12 @@ This is just a test repository for myself to learn git and github :). If you hav
 <p align="center">Centered text by using tags and attributes</p>
 
 [How to Write Stunning Github README.md [Template Provided] ](https://dev.to/rohit19060/how-to-write-stunning-github-readme-md-template-provided-5b09) by Rohit Jain
+
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) by GithHub
+
 [How to have an awesome GitHub profile ? ](https://dev.to/supritha/how-to-have-an-awesome-github-profile-1969) by Supritha Ravishankar
+
+# The following picture was added by drag and drop to the md file...
+
+![ByDargAndDrop](https://user-images.githubusercontent.com/17119474/128820935-fa93d0d8-aa8e-49e6-8e5b-0eb293c2b238.png)
+
