@@ -18,3 +18,10 @@ This is just a test repository for myself to learn git and github :). If you hav
 
 ![ByDargAndDrop](https://user-images.githubusercontent.com/17119474/128820935-fa93d0d8-aa8e-49e6-8e5b-0eb293c2b238.png)
 
+
+
+Utilizing Lists
+- One
+- Two
+- Three
+- Four
