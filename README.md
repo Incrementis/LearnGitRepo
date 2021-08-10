@@ -41,3 +41,12 @@ _italics_
 ~~Strike through~~
 
 > Blockquote
+
+Reference Style Link [1]
+
+
+The reference for 1 is invisible for more information [check the following link](https://stackoverflow.com/questions/24580042/github-markdown-are-macros-and-variables-possible)
+
+[1]:https://github.com/Incrementis/LearnGitRepo/projects
+
+
