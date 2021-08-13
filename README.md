@@ -55,7 +55,7 @@ The reference for 1 is invisible for more information [check the following link]
 # Github Stats Card
 ![github stats](https://github-readme-stats.vercel.app/api?username=Incrementis)
 
-Using as tag
+Using tag
 
 <img src="https://github-readme-stats.vercel.app/api?username=Incrementis" />
 
@@ -63,4 +63,15 @@ Using attributes
 
 <img
   src="https://github-readme-stats.vercel.app/api?username=Incrementis&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=0C2233&custom_title=Aleks+Popovic's+GitHub+Stats&show_icons=true"
+/>
+
+
+# Top Language Cards
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Incrementis)
+
+
+Using tag
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Incrementis"
 />
