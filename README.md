@@ -14,6 +14,8 @@ This is just a test repository for myself to learn git and github :). If you hav
 
 [How to have an awesome GitHub profile ? ](https://dev.to/supritha/how-to-have-an-awesome-github-profile-1969) by Supritha Ravishankar
 
+[Easiest way to set up your Github profile page](https://dev.to/alekswritescode/easiest-way-to-set-up-your-github-profile-page-3gn8) by Aleks Popovic
+
 # The following picture was added by drag and drop to the md file...
 
 ## WARNING: I do not recommend uploading images by drag and drop! It seems it ain´t easy to delete them. [Check the following link](https://stackoverflow.com/questions/52282847/can-images-on-user-images-githubusercontent-com-be-deleted)
