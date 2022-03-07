@@ -1,1 +1,5 @@
 Git
+
+I included this message by opening/left-clicking "Tortoise.txt" and then pressing "." which opens the file in "github.dev".
+Source: https://dev.to/lostintangent/10-awesome-things-you-can-do-with-github-dev-5fm7
+
