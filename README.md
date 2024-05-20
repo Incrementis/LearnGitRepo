@@ -24,7 +24,9 @@ This is just a test repository for myself to learn git and github :). If you hav
 
 ![ByDargAndDrop](https://user-images.githubusercontent.com/17119474/128820935-fa93d0d8-aa8e-49e6-8e5b-0eb293c2b238.png)
 
-
+Adding testvideo from: https://www.cazzulino.com/github-pages-embed-video.html
+<video src="https://user-images.githubusercontent.com/169707/126715420-991ad821-9ac8-4b66-b79e-e0966e0f3a89.mp4" controls="controls" style="max-width: 730px;">
+</video>
 
 Utilizing Lists
 - One
